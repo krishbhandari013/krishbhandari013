@@ -52,8 +52,11 @@ Currently, I am building **scalable and responsive applications** using the **ME
 
 ## 📈 GitHub Stats
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+### My GitHub Stats
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical&hide_border=true)
+
+### Top Languages I Use
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
 
 ---
 

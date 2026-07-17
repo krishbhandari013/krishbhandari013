@@ -5,9 +5,11 @@
 ---
 
 ## 🌟 About Me
-I am a CSIT student and full-stack developer with a passion for coding and problem-solving. I enjoy creating **real-world web applications**, experimenting with new technologies, and continuously improving my skills.  
+I am a CSIT student and full-stack developer passionate about building real-world applications, solving complex problems, and turning ideas into practical solutions.
 
-Currently, I am building **scalable and responsive applications** using the **MERN stack**, and I recently completed my **first full-stack eCommerce project**. I believe in learning by doing and love contributing to projects that make an impact.
+With a strong curiosity and hunger to learn, I continuously explore new technologies, research challenging concepts, and improve my development skills. Currently focused on the MERN stack, I also leverage AI as a learning and development tool to understand complex topics, explore better solutions, improve my code, and accelerate my growth.
+
+🚀 Learning deeply. Building consistently. Solving boldly.
 
 ---
 
@@ -18,6 +20,7 @@ Currently, I am building **scalable and responsive applications** using the **ME
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,6 +29,8 @@ Currently, I am building **scalable and responsive applications** using the **ME
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,25 +45,60 @@ Currently, I am building **scalable and responsive applications** using the **ME
 
 ## 📌 Featured Project
 
-### 🛒 MERN eCommerce Web App
-> My first full-stack eCommerce application built with the MERN stack
+📊 Amazon Dashboard
+
+A dashboard project inspired by Amazon's eCommerce ecosystem, focused on building a clean and responsive user interface.
+
+✨ Highlights:
+
+Responsive dashboard interface
+Modern layout and reusable components
+Product and data visualization
+Focus on user experience and frontend development
+
+🔗 REPO : https://github.com/krishbhandari013/Amazon_Clone
+
+🛒 MERN eCommerce Web App
+
+My first full-stack eCommerce application built with the MERN stack.
 
 ✨ Features:
-- Fully responsive UI for desktop and mobile  
-- Product listing and detail pages  
-- Shopping cart functionality  
-- Clean and modern design  
-- Backend with REST APIs using Node.js, Express, and MongoDB
 
-[View Project Repo](https://github.com/YOUR_USERNAME/YOUR_PROJECT_REPO)
+Fully responsive UI for desktop and mobile
+Product listing and detail pages
+Shopping cart functionality
+Clean and modern design
+REST APIs using Node.js and Express
+MongoDB database integration
+
+🔗 REPO : https://github.com/krishbhandari013/E-commerce
+🔗LIVE PREVIEW : https://ecommerce-frontend-hazel-three.vercel.app
+
+
+
+📝 Blogging Application
+
+A full-stack blogging application designed for creating, managing, and sharing content.
+
+✨ Features:
+
+Create and manage blog posts
+Responsive user interface
+Backend API integration
+Database-driven content management
+Focus on clean architecture and real-world application development
+
+🔗 REPO: https://github.com/krishbhandari013/ThoughtNest
+🔗LIVE PREVIEW : https://thought-nest-frontend.vercel.app/
+
 
 ---
 
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌍 Portfolio: your-portfolio-link (optional)
+- 📧 Email: krishbhandari013@gmail.com 
+- 💼 LinkedIn:https://www.linkedin.com/in/krish-bhandari-6378bb339/ 
+
 
 ---
 

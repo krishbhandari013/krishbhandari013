@@ -45,7 +45,7 @@ With a strong curiosity and hunger to learn, I continuously explore new technolo
 
 ## 📌 Featured Project
 
-📊 Amazon Dashboard
+### 1 ) 📊 Amazon Dashboard
 
 A dashboard project inspired by Amazon's eCommerce ecosystem, focused on building a clean and responsive user interface.
 
@@ -58,7 +58,7 @@ Focus on user experience and frontend development
 
 🔗 REPO : https://github.com/krishbhandari013/Amazon_Clone
 
-🛒 MERN eCommerce Web App
+### 2 ) 🛒 MERN eCommerce Web App
 
 My first full-stack eCommerce application built with the MERN stack.
 
@@ -76,7 +76,7 @@ MongoDB database integration
 
 
 
-📝 Blogging Application
+### 3 )  📝 Blogging Application
 
 A full-stack blogging application designed for creating, managing, and sharing content.
 
@@ -90,6 +90,25 @@ Focus on clean architecture and real-world application development
 
 🔗 REPO: https://github.com/krishbhandari013/ThoughtNest
 🔗LIVE PREVIEW : https://thought-nest-frontend.vercel.app/
+
+
+### 4) 🎬 Movie Review Platform
+
+A full-stack movie review platform where users can discover movies, read community reviews, and share their own ratings and opinions.
+
+✨ **Features:**
+
+* Browse movies with data from the OMDb API
+* Write, edit, and delete movie reviews with 1–5 star ratings
+* Secure user authentication using JWT and HTTP-only cookies
+* User profile to manage reviews and account settings
+* Admin dashboard with review analytics and management
+* Responsive UI with smooth animations using Tailwind CSS and Framer Motion
+
+🔗 **REPO:** https://github.com/krishbhandari013/movie-rating
+
+🔗 **LIVE PREVIEW:** https://movie-rating-alpha-coral.vercel.app/
+
 
 
 ---
